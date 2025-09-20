@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Age,City,State,RegistrationDate,PreferredCategory
+CUST001,Mike Miller,22,Miami,FL,2024-06-29,Home & Garden
+CUST002,Sarah Wilson,38,San Francisco,CA,2023-01-31,Health & Beauty
+CUST003,Lisa Garcia,44,Denver,CO,2024-03-29,Home & Garden
+CUST004,David Wilson,67,Los Angeles,CA,2023-04-20,Appliances
+CUST005,Mike Smith,66,Boston,MA,2023-10-01,Sports
+CUST006,Maria Taylor,32,Boston,MA,2023-08-26,Appliances
+CUST007,John Miller,23,New York,NY,2023-05-18,Sports
+CUST008,Maria Martinez,63,Austin,TX,2023-07-08,Health & Beauty
+CUST009,Chris Martinez,48,San Francisco,CA,2023-06-17,Appliances
+CUST010,Emily Smith,44,Seattle,WA,2023-10-04,Books
+CUST011,Emily Brown,66,Los Angeles,CA,2023-03-09,Appliances
+CUST012,Anna Taylor,49,Austin,TX,2024-04-13,Appliances
+CUST013,Chris Garcia,67,Seattle,WA,2024-01-25,Home & Garden
+CUST014,Lisa Garcia,57,Boston,MA,2024-07-03,Sports
+CUST015,John Anderson,24,New York,NY,2024-04-12,Health & Beauty
+CUST016,John Brown,51,Miami,FL,2024-02-10,Home & Garden
+CUST017,John Anderson,42,Miami,FL,2023-02-20,Appliances
+CUST018,David Martinez,43,Denver,CO,2023-10-20,Books
+CUST019,Mike Garcia,36,Boston,MA,2023-02-25,Home & Garden
+CUST020,James Wilson,47,New York,NY,2023-04-03,Home & Garden
+CUST021,James Johnson,29,Boston,MA,2024-07-13,Appliances
+CUST022,Chris Garcia,38,New York,NY,2023-01-26,Appliances
+CUST023,Anna Taylor,63,Los Angeles,CA,2024-04-10,Electronics
+CUST024,David Miller,62,San Francisco,CA,2023-05-07,Electronics
+CUST025,Sarah Martinez,58,Austin,TX,2023-03-29,Sports
+CUST026,Chris Anderson,57,San Francisco,CA,2024-01-23,Sports
+CUST027,Chris Smith,67,San Francisco,CA,2023-12-10,Sports
+CUST028,Mike Wilson,27,San Francisco,CA,2023-02-22,Books
+CUST029,David Davis,64,New York,NY,2023-10-23,Home & Garden
+CUST030,Mike Johnson,26,Los Angeles,CA,2023-01-04,Sports
+CUST031,David Smith,47,New York,NY,2024-05-25,Sports
+CUST032,John Taylor,49,Los Angeles,CA,2023-08-11,Sports
+CUST033,Anna Martinez,44,New York,NY,2023-03-23,Sports
+CUST034,Maria Smith,33,Miami,FL,2023-10-12,Sports
+CUST035,James Brown,21,San Francisco,CA,2023-06-01,Electronics
+CUST036,Lisa Smith,27,Seattle,WA,2024-08-14,Health & Beauty
+CUST037,Maria Davis,39,Portland,OR,2023-02-20,Electronics
+CUST038,Chris Wilson,28,Denver,CO,2024-08-09,Health & Beauty
+CUST039,James Wilson,47,Boston,MA,2024-01-04,Electronics
+CUST040,Sarah Davis,38,Austin,TX,2024-01-24,Health & Beauty
+CUST041,Sarah Garcia,53,Portland,OR,2023-10-27,Books
+CUST042,Mike Johnson,62,Denver,CO,2023-12-04,Sports
+CUST043,Chris Anderson,31,Los Angeles,CA,2023-03-01,Electronics
+CUST044,Maria Anderson,23,New York,NY,2023-10-22,Books
+CUST045,Maria Miller,34,Miami,FL,2024-08-11,Sports
+CUST046,Lisa Wilson,57,Boston,MA,2024-05-23,Sports
+CUST047,Anna Martinez,69,San Francisco,CA,2023-08-27,Home & Garden
+CUST048,David Brown,18,Portland,OR,2023-01-25,Books
+CUST049,Sarah Brown,69,Boston,MA,2024-02-29,Books
+CUST050,John Miller,40,Miami,FL,2023-08-06,Electronics
+CUST051,Emily Davis,34,Portland,OR,2023-11-12,Clothing
+CUST052,James Anderson,38,Seattle,WA,2023-04-27,Home & Garden
+CUST053,Lisa Miller,43,Boston,MA,2023-01-30,Health & Beauty
+CUST054,Mike Brown,39,Austin,TX,2024-05-05,Books
+CUST055,John Wilson,48,San Francisco,CA,2024-04-16,Health & Beauty
+CUST056,James Miller,47,Chicago,IL,2023-02-27,Health & Beauty
+CUST057,James Davis,54,Austin,TX,2024-07-22,Sports
+CUST058,John Brown,54,Austin,TX,2023-12-29,Electronics
+CUST059,Mike Davis,19,Austin,TX,2024-01-20,Home & Garden
+CUST060,James Wilson,54,Boston,MA,2024-02-03,Appliances
+CUST061,Maria Johnson,68,Denver,CO,2023-11-19,Home & Garden
+CUST062,John Davis,44,Portland,OR,2024-05-23,Appliances
+CUST063,Lisa Martinez,37,Los Angeles,CA,2024-06-21,Clothing
+CUST064,Mike Johnson,41,Seattle,WA,2023-07-26,Electronics
+CUST065,Anna Anderson,19,New York,NY,2024-05-27,Appliances
+CUST066,Emily Miller,48,Miami,FL,2023-11-14,Health & Beauty
+CUST067,Lisa Wilson,67,Portland,OR,2024-06-12,Home & Garden
+CUST068,Mike Brown,64,Seattle,WA,2024-04-15,Books
+CUST069,James Johnson,18,Denver,CO,2023-02-15,Home & Garden
+CUST070,Maria Johnson,39,New York,NY,2023-02-17,Electronics
+CUST071,James Davis,19,Boston,MA,2023-11-16,Home & Garden
+CUST072,Emily Miller,30,Los Angeles,CA,2023-10-21,Clothing
+CUST073,James Miller,67,New York,NY,2023-05-01,Clothing
+CUST074,Mike Wilson,35,Portland,OR,2023-01-16,Sports
+CUST075,James Anderson,24,Los Angeles,CA,2024-07-09,Clothing
+CUST076,James Miller,35,San Francisco,CA,2023-10-18,Sports
+CUST077,Emily Wilson,22,Denver,CO,2023-12-13,Sports
+CUST078,Anna Smith,26,Seattle,WA,2024-04-27,Home & Garden
+CUST079,John Johnson,42,Seattle,WA,2023-03-30,Books
+CUST080,Chris Wilson,63,Boston,MA,2024-04-01,Sports
+CUST081,Lisa Davis,39,Los Angeles,CA,2024-06-30,Electronics
+CUST082,Anna Taylor,26,Portland,OR,2024-04-24,Electronics
+CUST083,Anna Davis,61,New York,NY,2024-04-26,Appliances
+CUST084,Emily Wilson,57,Denver,CO,2024-01-08,Books
+CUST085,Mike Miller,68,Austin,TX,2024-04-09,Books
+CUST086,John Johnson,48,Portland,OR,2023-12-26,Books
+CUST087,Anna Wilson,36,Austin,TX,2024-08-11,Appliances
+CUST088,James Johnson,43,Portland,OR,2023-11-30,Sports
+CUST089,Sarah Davis,52,New York,NY,2024-02-15,Sports
+CUST090,Chris Brown,57,Los Angeles,CA,2024-07-15,Appliances
+CUST091,Anna Garcia,22,Austin,TX,2023-08-02,Health & Beauty
+CUST092,Maria Garcia,68,Chicago,IL,2024-08-03,Health & Beauty
+CUST093,Lisa Anderson,62,Los Angeles,CA,2023-06-27,Home & Garden
+CUST094,Sarah Taylor,49,Portland,OR,2024-04-19,Clothing
+CUST095,James Johnson,70,New York,NY,2023-06-30,Clothing
+CUST096,Chris Johnson,56,Portland,OR,2024-01-24,Clothing
+CUST097,Anna Smith,23,Los Angeles,CA,2023-05-23,Sports
+CUST098,John Wilson,60,San Francisco,CA,2024-04-08,Sports
+CUST099,David Garcia,57,Boston,MA,2024-04-02,Appliances
+CUST100,Emily Miller,37,Boston,MA,2023-11-08,Books

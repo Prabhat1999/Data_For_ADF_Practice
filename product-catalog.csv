@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Brand,CostPrice
+PROD101,Basketball,Sports,MobileTech,21.05
+PROD102,Blender,Appliances,HomeGear,62.1
+PROD103,Microwave,Appliances,BeautyMax,52.07
+PROD104,Yoga Mat,Sports,GreenThumb,17.63
+PROD105,Novel,Books,StyleBrand,134.74
+PROD106,Running Shoes,Sports,FitLife,80.84
+PROD107,Makeup Kit,Health & Beauty,StyleBrand,15.74
+PROD108,Vitamins,Health & Beauty,HomeGear,129.43
+PROD109,Face Cream,Health & Beauty,BeautyMax,129.02
+PROD110,Makeup Kit,Health & Beauty,TechCorp,103.19
+PROD111,Laptop,Electronics,FitLife,14.07
+PROD112,Microwave,Appliances,FitLife,92.23
+PROD113,Candles,Home & Garden,StyleBrand,118.36
+PROD114,Smartphone,Electronics,StyleBrand,47.07
+PROD115,Microwave,Appliances,TechCorp,82.98
+PROD116,Tennis Racket,Sports,HomeGear,20.09
+PROD117,Shampoo,Health & Beauty,BeautyMax,27.79
+PROD118,Biography,Books,GreenThumb,91.31
+PROD119,Picture Frame,Home & Garden,MobileTech,38.44
+PROD120,Cookbook,Books,GreenThumb,116.37
+PROD121,Candles,Home & Garden,StyleBrand,52.45
+PROD122,Dress,Clothing,GreenThumb,10.54
+PROD123,Dress,Clothing,BeautyMax,145.16
+PROD124,Air Fryer,Appliances,TechCorp,124.39
+PROD125,Cushions,Home & Garden,MobileTech,131.91
+PROD126,Wireless Headphones,Electronics,MobileTech,167.11
+PROD127,Vitamins,Health & Beauty,TechCorp,63.65
+PROD128,Jacket,Clothing,StyleBrand,9.92
+PROD129,Yoga Mat,Sports,MobileTech,94.16
+PROD130,Tennis Racket,Sports,FitLife,95.63
+PROD131,Plant Pot,Home & Garden,StyleBrand,96.72
+PROD132,Laptop,Electronics,MobileTech,14.55
+PROD133,Picture Frame,Home & Garden,HomeGear,16.5
+PROD134,Wireless Headphones,Electronics,StyleBrand,108.4
+PROD135,Cushions,Home & Garden,BeautyMax,21.38
+PROD136,Candles,Home & Garden,MobileTech,147.63
+PROD137,Plant Pot,Home & Garden,HomeGear,79.8
+PROD138,Smartphone,Electronics,MobileTech,77.76
+PROD139,Plant Pot,Home & Garden,TechCorp,43.63
+PROD140,Jacket,Clothing,StyleBrand,91.8
+PROD141,Cushions,Home & Garden,HomeGear,86.57
+PROD142,Dumbbells,Sports,BeautyMax,15.17
+PROD143,Programming Guide,Books,FitLife,127.1
+PROD144,Jacket,Clothing,GreenThumb,30.01
+PROD145,Basketball,Sports,BeautyMax,86.26
+PROD146,Vacuum Cleaner,Appliances,MobileTech,63.41
+PROD147,Dumbbells,Sports,StyleBrand,75.02
+PROD148,Vacuum Cleaner,Appliances,FitLife,92.61
+PROD149,Microwave,Appliances,GreenThumb,109.15
+PROD150,Air Fryer,Appliances,BeautyMax,33.56
